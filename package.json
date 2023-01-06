@@ -1,0 +1,14 @@
+{
+  "name": "@87d4192db110d03d/earths-fever",
+  "main": "46ff790d0cee8b46@1269.js",
+  "version": "1269.0.0",
+  "homepage": "https://observablehq.com/@87d4192db110d03d/earths-fever",
+  "author": {
+    "name": "87d4192db110d03d",
+    "url": "https://observablehq.com/@87d4192db110d03d"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
