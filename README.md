@@ -1,4 +1,4 @@
-# Earth's Fever
+# Earth's Fever real change
 
 https://observablehq.com/@87d4192db110d03d/earths-fever@1269
 
